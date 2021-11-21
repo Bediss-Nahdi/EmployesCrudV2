@@ -1,0 +1,5 @@
+package fr.bediss.employes.controllers;
+
+public class EmployeeController {
+
+}
