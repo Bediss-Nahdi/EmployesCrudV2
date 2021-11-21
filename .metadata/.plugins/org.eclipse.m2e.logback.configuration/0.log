@@ -1,0 +1,19 @@
+2021-11-21 09:13:32,692 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-21 09:15:19,880 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fr.bediss.employes:EmployesV2:0.0.1-SNAPSHOT @ C:\Users\Utilisateur\Desktop\Concepteur Développeur d'Apllications\03- Back End\Employes\EmployesV2\pom.xml.
+2021-11-21 09:15:24,822 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployesV2/src/main/java
+2021-11-21 09:15:24,823 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmployesV2/src/main/resources
+2021-11-21 09:15:24,833 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmployesV2/src/main/resources
+2021-11-21 09:15:24,852 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployesV2/src/test/java
+2021-11-21 09:15:25,722 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2021-11-21 09:15:25,729 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-11-21 09:15:26,862 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fr.bediss.employes:EmployesV2:0.0.1-SNAPSHOT @ C:\Users\Utilisateur\Desktop\Concepteur Développeur d'Apllications\03- Back End\Employes\EmployesV2\pom.xml.
+2021-11-21 09:15:29,028 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployesV2/src/main/java
+2021-11-21 09:15:29,029 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmployesV2/src/main/resources
+2021-11-21 09:15:29,030 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmployesV2/src/main/resources
+2021-11-21 09:15:29,031 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployesV2/src/test/java
+2021-11-21 09:15:29,727 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2021-11-21 09:15:31,079 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-21 09:15:31,080 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-21 09:15:31,085 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-21 09:15:31,102 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-21 09:15:31,108 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
